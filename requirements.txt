@@ -1,0 +1,9 @@
+PySide6
+pyqtgraph
+numpy
+scipy
+pandas
+openpyxl      # only needed to read .xlsx files
+anthropic     # AI recipe via Claude (cloud) - no Ollama needed
+ollama        # optional: only if you choose the local Ollama provider
+# pyvisa      # uncomment when you wire up the GPIB data source
